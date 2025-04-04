@@ -1,6 +1,6 @@
-# Storage / Messaging
+# Webapp/Website/Backoffice
 Hai, this is project B in the ABC series of the terraform e-commerce solution. 
-This side includes the webapp, website and backoffice
+This side includes the webapp, website and backoffice app service that's gonna host the docker container
 
 ## Reasoning
 Basic webapp, pretty much what was done in class
